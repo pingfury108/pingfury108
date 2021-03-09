@@ -29,7 +29,7 @@ Hi, I'm pingfury, a python/golang Developer 🚀 from China, currently, I'm a de
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/phachon/count.svg" />
+  <img src="https://profile-counter.glitch.me/pingfury108/count.svg" />
   <br/>⭐️ Show some ❤️ by starring some of the repositories!
 </p>
 <p align="center">
